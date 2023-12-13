@@ -1,0 +1,58 @@
+.navbar{
+    width: 0.5rem;
+    
+}
+
+.card {
+    color:black;
+}
+.date{
+    color:#8E49FF;
+}
+h3{
+    font-size: 1.5rem;
+}
+
+.link{
+    color:#8E49FF;
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+.tasks{
+    display: block;
+}
+.check-task{
+    display: inline-block;
+}
+.name_project{
+    margin-right: auto;
+    padding: 1rem;
+    background-color: #F8F8FA;
+    border-radius: 10%;
+}
+.btn{
+    padding: 0;
+}
+
+.name_project:hover{
+    border-width: 1px;
+    border-color: #8E49FF;
+} 
+.notes{
+    background-color: #F8F8FA;
+    border-radius: 5%;
+}
+h4{
+    color:#8E49FF;
+}
+h2 {
+    font-weight: bold;
+}
+.my_btn{
+    background-color: #8E49FF;
+    display: block;
+    font-weight: bold;
+}
+.icon{
+    width: 2rem;
+}
