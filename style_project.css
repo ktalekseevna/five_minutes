@@ -56,3 +56,65 @@ h2 {
 .icon{
     width: 2rem;
 }
+
+.not_started .feature h3{
+    background-color: #FFE2DD;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    border-radius: 10%
+}
+.feature p{
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #91918E80;
+}
+li{
+    list-style-type: none;  
+}
+
+.to-do-list{
+    background-color: #F8F8FA;
+    border-radius: 5% ;
+}
+.task{
+    background-color: #fff;
+    border-radius: 5% ;
+    padding: 1rem;
+}
+.in_process .feature h3{
+    background-color: #FDECC8;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    border-radius: 10%
+}
+.finished .feature h3{
+    background-color: #EADEFF;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    border-radius: 10%
+}
+
+/* Navifation */
+.navbar{
+    margin-top: 20rem ;
+    width: 5rem;
+}
+
+.nav-item img{
+    width: fit-content;
+    padding: 1rem;
+    border-radius: 5%;
+}
+.nav-item img:active, .nav-item img:hover, .nav-item img:focus {
+    background-color: #F8F8FA;
+}
+
+ul { 
+    list-style-type: none;
+    float: center
+  }
+  
+  li a {
+      display: block;
+      padding: 14px 16px;
+  }
