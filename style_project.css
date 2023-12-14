@@ -118,3 +118,37 @@ ul {
       display: block;
       padding: 14px 16px;
   }
+
+  .container{
+    /* padding-top: 5rem; */
+  }
+
+  .box{
+    background-color: #F8F8FA;
+    border-radius: 5%;
+  }
+  .img_box{
+    width: 100%;
+  }
+
+  .container{
+        margin-top: 5rem;
+  }
+/* 
+  progect.html */
+  .link{
+    background-color: #fff;
+    box-shadow: 4px 6px 10px #0F0F0F0D;
+  }
+  .links h3{
+    color: black;
+    font-size: 1.2rem;
+  }
+  .links p{
+    color: #8D8C89;
+    font-size: 1rem;
+  }
+  h2{
+    font-size: 1.7rem;
+    font-weight: 600;
+  }
